@@ -1,0 +1,5 @@
+p : pause (rappuyer pour enlevé la pause)
+v : tire
+fléche gauche et fléche droite pour se déplacer
+
+
